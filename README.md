@@ -1,4 +1,4 @@
-Live Site URL: [My Resume](./pdf/Jaya%20Veeramani.pdf)
+Live Site URL: [My Resume](./pdf/jaya-veeramani.pdf)
 
 Desktop View: 
 ![Screenshot of my personal portfolio website - Desktop view](images/myportfolio.png)
